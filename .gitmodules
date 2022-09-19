@@ -23,6 +23,11 @@
 	url = https://github.com/alexanderrobitzsch/lam
 	shallow = true
 	registered = true
+[submodule "mdmb"]
+	path = mdmb
+	url = https://github.com/alexanderrobitzsch/mdmb
+	shallow = true
+	registered = true
 [submodule "miceadds"]
 	path = miceadds
 	url = https://github.com/alexanderrobitzsch/miceadds
