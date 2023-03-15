@@ -1,6 +1,38 @@
 [
   {
+    "package": "BIFIEsurvey",
+    "oncran": true
+  },
+  {
     "package": "CDM",
+    "oncran": true
+  },
+  {
+    "package": "immer",
+    "oncran": true
+  },
+  {
+    "package": "LAM",
+    "oncran": true
+  },
+  {
+    "package": "mdmb",
+    "oncran": true
+  },
+  {
+    "package": "miceadds",
+    "oncran": true
+  },
+  {
+    "package": "mnlfa",
+    "oncran": true
+  },
+  {
+    "package": "pbv",
+    "oncran": true
+  },
+  {
+    "package": "sirt",
     "oncran": true
   },
   {
@@ -9,38 +41,6 @@
   },
   {
     "package": "STARTS",
-    "oncran": true
-  },
-  {
-    "package": "sirt",
-    "oncran": true
-  },
-  {
-    "package": "LAM",
-    "oncran": true
-  },
-  {
-    "package": "miceadds",
-    "oncran": true
-  },
-  {
-    "package": "immer",
-    "oncran": true
-  },
-  {
-    "package": "BIFIEsurvey",
-    "oncran": true
-  },
-  {
-    "package": "mdmb",
-    "oncran": true
-  },
-  {
-    "package": "pbv",
-    "oncran": true
-  },
-  {
-    "package": "mnlfa",
     "oncran": true
   },
   {
