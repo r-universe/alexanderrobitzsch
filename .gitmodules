@@ -3,49 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "BIFIEsurvey"]
-	path = BIFIEsurvey
-	url = https://github.com/alexanderrobitzsch/bifiesurvey
-	shallow = true
-	registered = true
 [submodule "CDM"]
 	path = CDM
 	url = https://github.com/alexanderrobitzsch/cdm
-	shallow = true
-	registered = true
-[submodule "immer"]
-	path = immer
-	url = https://github.com/alexanderrobitzsch/immer
-	shallow = true
-	registered = true
-[submodule "LAM"]
-	path = LAM
-	url = https://github.com/alexanderrobitzsch/lam
-	shallow = true
-	registered = true
-[submodule "mdmb"]
-	path = mdmb
-	url = https://github.com/alexanderrobitzsch/mdmb
-	shallow = true
-	registered = true
-[submodule "miceadds"]
-	path = miceadds
-	url = https://github.com/alexanderrobitzsch/miceadds
-	shallow = true
-	registered = true
-[submodule "mnlfa"]
-	path = mnlfa
-	url = https://github.com/alexanderrobitzsch/mnlfa
-	shallow = true
-	registered = true
-[submodule "pbv"]
-	path = pbv
-	url = https://github.com/alexanderrobitzsch/pbv
-	shallow = true
-	registered = true
-[submodule "sirt"]
-	path = sirt
-	url = https://github.com/alexanderrobitzsch/sirt
 	shallow = true
 	registered = true
 [submodule "srm"]
@@ -56,6 +16,46 @@
 [submodule "STARTS"]
 	path = STARTS
 	url = https://github.com/alexanderrobitzsch/starts
+	shallow = true
+	registered = true
+[submodule "sirt"]
+	path = sirt
+	url = https://github.com/alexanderrobitzsch/sirt
+	shallow = true
+	registered = true
+[submodule "LAM"]
+	path = LAM
+	url = https://github.com/alexanderrobitzsch/lam
+	shallow = true
+	registered = true
+[submodule "miceadds"]
+	path = miceadds
+	url = https://github.com/alexanderrobitzsch/miceadds
+	shallow = true
+	registered = true
+[submodule "immer"]
+	path = immer
+	url = https://github.com/alexanderrobitzsch/immer
+	shallow = true
+	registered = true
+[submodule "BIFIEsurvey"]
+	path = BIFIEsurvey
+	url = https://github.com/alexanderrobitzsch/bifiesurvey
+	shallow = true
+	registered = true
+[submodule "mdmb"]
+	path = mdmb
+	url = https://github.com/alexanderrobitzsch/mdmb
+	shallow = true
+	registered = true
+[submodule "pbv"]
+	path = pbv
+	url = https://github.com/alexanderrobitzsch/pbv
+	shallow = true
+	registered = true
+[submodule "mnlfa"]
+	path = mnlfa
+	url = https://github.com/alexanderrobitzsch/mnlfa
 	shallow = true
 	registered = true
 [submodule "TAM"]
