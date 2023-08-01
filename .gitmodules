@@ -8,12 +8,18 @@
 [submodule "CDM"]
 	path = CDM
 	url = https://github.com/alexanderrobitzsch/cdm
-[submodule "immer"]
-	path = immer
-	url = https://github.com/alexanderrobitzsch/immer
 [submodule "LAM"]
 	path = LAM
 	url = https://github.com/alexanderrobitzsch/lam
+[submodule "STARTS"]
+	path = STARTS
+	url = https://github.com/alexanderrobitzsch/starts
+[submodule "TAM"]
+	path = TAM
+	url = https://github.com/alexanderrobitzsch/tam
+[submodule "immer"]
+	path = immer
+	url = https://github.com/alexanderrobitzsch/immer
 [submodule "mdmb"]
 	path = mdmb
 	url = https://github.com/alexanderrobitzsch/mdmb
@@ -32,9 +38,3 @@
 [submodule "srm"]
 	path = srm
 	url = https://github.com/alexanderrobitzsch/srm
-[submodule "STARTS"]
-	path = STARTS
-	url = https://github.com/alexanderrobitzsch/starts
-[submodule "TAM"]
-	path = TAM
-	url = https://github.com/alexanderrobitzsch/tam
